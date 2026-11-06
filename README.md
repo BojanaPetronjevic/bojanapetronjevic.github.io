@@ -33,6 +33,7 @@ Double-clicking `index.html` shows the home page, but the menu links only work t
 - `robots` meta tag (`index, follow`)
 - Open Graph tags, so links shared on LinkedIn show a proper preview
 - Person schema on the home page, so Google and AI tools understand who the site is about
+- Ahrefs Web Analytics script in every page's `<head>` (visitor stats, no cookies). Keep it on new pages too
 
 ## Live address
 

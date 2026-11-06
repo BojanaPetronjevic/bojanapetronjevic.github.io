@@ -1,0 +1,5 @@
+# All crawlers are welcome, including AI search crawlers.
+User-agent: *
+Allow: /
+
+Sitemap: https://bojanapetronjevic.github.io/sitemap.xml

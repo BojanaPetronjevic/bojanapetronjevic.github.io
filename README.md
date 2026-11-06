@@ -1,6 +1,6 @@
 # Portfolio site
 
-My personal portfolio website: who I am, outreach email examples, Digital PR campaigns and the tools I built. It is plain HTML and CSS, so there is nothing to install and no build step. It is meant to be hosted for free on GitHub Pages.
+My personal portfolio website: who I am, how I approach outreach and what my Digital PR work covers. It is plain HTML and CSS, so there is nothing to install and no build step. It is meant to be hosted for free on GitHub Pages.
 
 ## What each file does
 
@@ -38,9 +38,10 @@ Double-clicking `index.html` shows the home page, but the menu links only work t
 
 The site is published at https://bojanapetronjevic.github.io/ (GitHub user BojanaPetronjevic, repository `bojanapetronjevic.github.io`). Every page has a canonical tag and `og:url` pointing to its address there.
 
+The home page has the Google Search Console verification tag (`google-site-verification`). Don't remove it, or the site stops being verified.
+
 Still to add:
 - the LinkedIn link (header, footer and `sameAs` in the Person schema)
-- the Google Search Console verification tag on the home page
 
 ## Content rules
 

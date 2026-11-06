@@ -11,6 +11,7 @@ My personal portfolio website: who I am, how I approach outreach and what my Dig
 | `digital-pr/index.html` | What my Digital PR work covers |
 | `404.html` | The page people see when a link is broken (Google is told not to index it) |
 | `styles.css` | The look of every page. Colours are at the top, in the `:root` block |
+| `favicon.svg`, `favicon-32.png`, `apple-touch-icon.png` | The small icon in the browser tab and on phone home screens |
 | `robots.txt` | Rules for search engine and AI bots: everything is allowed |
 | `sitemap.xml` | List of all pages for Google. Update `lastmod` when a page changes |
 
